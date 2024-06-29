@@ -1,0 +1,6 @@
+[submodule "Savvy-Microservice"]
+	path = Savvy-Microservice
+	url = https://github.com/davidritter-dotcom/Savvy-Microservice.git
+[submodule "Savvy-Quarkus"]
+	path = Savvy-Quarkus
+	url = https://github.com/davidritter-dotcom/Savvy-Microservice.git
