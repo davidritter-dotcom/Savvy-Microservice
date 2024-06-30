@@ -63,6 +63,13 @@
             <version>1.18.32</version>
             <scope>compile</scope>
         </dependency>
+        <!-- Selenium for browser-based E2E tests -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.22.0</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
