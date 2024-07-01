@@ -129,7 +129,7 @@ public class ChromeE2ETests {
     }
 
     private static void login() {
-        String baseUrl = "http://host.docker.internal:8080";
+        String baseUrl = "http://host.docker.internal:8087";
         driver.get(baseUrl);
 
         new WebDriverWait(driver, ofSeconds(30), ofSeconds(1))
